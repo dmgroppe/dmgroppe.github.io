@@ -1,9 +1,9 @@
 # David M. Groppe, PhD
-Human Neuro-Data Scientist, Epilepsy Researcher, Software Developer
-[Google Scholar Profile](https://scholar.google.com/citations?user=M-rNJg0AAAAJ&hl=en)
-[GitHub Profile](https://github.com/dmgroppe)
-[LinkedIn Page](https://ca.linkedin.com/in/david-groppe-1105bb19)
-[Twitter/X](https://twitter.com/dmgroppe)
+<p>Human Neuro-Data Scientist, Epilepsy Researcher, Software Developer<br>
+[Google Scholar Profile](https://scholar.google.com/citations?user=M-rNJg0AAAAJ&hl=en)<br>
+[GitHub Profile](https://github.com/dmgroppe)<br>
+[LinkedIn Page](https://ca.linkedin.com/in/david-groppe-1105bb19)<br>
+[Twitter/X](https://twitter.com/dmgroppe)</p>
 
 ## Data Sharing in Epilepsy Research
 Sharing data is cool
