@@ -1,0 +1,8 @@
+# Site settings
+title: David M. Groppe, PhD
+author:
+  name: David Groppe
+description: "Personal website for David Groppe."
+
+# Build settings
+remote_theme: jekyll/cayman
