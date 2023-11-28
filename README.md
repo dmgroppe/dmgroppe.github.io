@@ -26,10 +26,33 @@ Sharing data does have some potential drawbacks such as:
 While the scientific culture has been actively working to mitigate those drawbacks,  I think it is by far still the norm for researchers to not share their data. To get a sense of the state and trajectory of data sharing in the epilepsy research community, I tried to catalog all available public datasets of intracranial electroencephalogram (iEEG) data. I also created this survey to help other iEEG researchers find these data. There is not yet a PubMed or Google Scholar for scientific data and since datasets are spread across multiple repositories in multiple formats, it can be challenging to find the data you need. Finally, I hope this survey helps researchers identify data repositories where they might share their own data.
 
 Note, I chose iEEG data, because it is the data type I am most familiar with. If you work with other types of epilepsy data, please email me with links to public databases of such data. I would love provide resources at the bottom of this page as well.
-
+<br/><br/>
 
 ## iEEG Public Datasets
-Case study
+I searched the following repositories for iEEG Data:
+* [Epilepsiae](http://www.epilepsiae.eu/project_outputs/european_database_on_epilepsy)<br>
+* [IEEG.ORG](https://www.ieeg.org/)<br>
+* [Epilepsy Ecosystem](https://www.epilepsyecosystem.org/)<br>
+* [Open Neuro](https://openneuro.org/)<br>
+* [Physionet](https://physionet.org/)<br>
+* [Kaggle](https://www.kaggle.com/)<br>
+* [Pennsieve](https://app.pennsieve.io/)<br>
+* [figshare](https://figshare.com/)<br>
+* [Brain-CODE](https://www.braincode.ca/)<br>
+* [SWEC-ETHZ iEEG Database and Algorithms](http://ieeg-swez.ethz.ch/)<br>
+* [Distributed Archive for Neurophysiological Data Integration (DANDI)](https://www.dandiarchive.org/)<br>
+* [Data Archive for the Brain Initiative (DABI)](https://dabi.loni.usc.edu/)<br>
+* [Neuroimaging Informatics Tools and Resources Collaboratory (NITRC)](https://www.nitrc.org/)<br>
+* [Collaborative Research in Computational Neuroscience (CRCNS)](https://crcns.org/)<br>
+* [Nightingale Open Science](https://www.ngsci.org/)<br>
+
+In addition, I was unable to access the following repositories because I either could not figure out how to access the data or my one request to access them went unanswered. I am listing them here for completeness and am sure that with a bit more effort you could access the data for reasonably purposes:
+* [Michael Kahana Laboratory](https://memory.psych.upenn.edu/Data)<br>
+* [Mayo Clinic Bioelectronics Neurophysiology and Engineering Lab](https://www.mayo.edu/research/labs/bioelectronics-neurophysiology-engineering/data-code-sharing)<br>
+
+Finally, the [Open Science Framework](https://osf.io/) has a few iEEG datasets as well, but I have not yet had time to add them to the table.
+
+Some of those repositories did not have any iEEG data. For the datasets I was able to find
 -get a sense of the trajectory and current state of data sharing
 -a resource for other iEEG researchers
 -give you a sense of places/ways to share such data
