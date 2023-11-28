@@ -46,11 +46,11 @@ I searched the following repositories for iEEG Data:
 * [Collaborative Research in Computational Neuroscience (CRCNS)](https://crcns.org/)<br>
 * [Nightingale Open Science](https://www.ngsci.org/)<br>
 
-In addition, I was unable to access the following repositories because I either could not figure out how to access the data or my one request to access them went unanswered. I am listing them here for completeness and am sure that with a bit more effort you could access the data for reasonably purposes:
+In addition, I was unable to access the following repositories because I either could not figure out how to access the data or my one request to access them went unanswered. I am listing them here for completeness and am sure that with a bit more effort you could access the data for reasonable purposes:
 * [Michael Kahana Laboratory](https://memory.psych.upenn.edu/Data)<br>
 * [Mayo Clinic Bioelectronics Neurophysiology and Engineering Lab](https://www.mayo.edu/research/labs/bioelectronics-neurophysiology-engineering/data-code-sharing)<br>
 
-Finally, the [Open Science Framework](https://osf.io/) has a few iEEG datasets as well, but I have not yet had time to add them to the table.
+Finally, the [Open Science Framework](https://osf.io/) and [Dryad](https://datadryad.org) have a few iEEG datasets as well, but I have not yet had time to add them to the table.
 
 Some of those repositories did not have any iEEG data. For the datasets I was able to find
 -get a sense of the trajectory and current state of data sharing
