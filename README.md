@@ -62,10 +62,8 @@ Some of those repositories did not have any iEEG data and there were some DABI d
 * if a fee is required to access the data
 * data license
 
-Those traits are summarized in the csv file linked to below. If I have made any errors, please let me know so I can correct them.
-[ieegDatabases2023.csv](https://www.dropbox.com/scl/fi/c92ocheeutwgcsxu6gyt8/ieegDatabases2023.csv?rlkey=dg3z6f8yfbjp0mzqnxtmt6no5&dl=0)<br>
-
-
+Those traits are summarized in this csv file: [ieegDatabases2023.csv](https://www.dropbox.com/scl/fi/c92ocheeutwgcsxu6gyt8/ieegDatabases2023.csv?rlkey=dg3z6f8yfbjp0mzqnxtmt6no5&dl=0). If I have made any errors, please let me know so I can correct them.
+<br/><br/>
 
 ## Public Non-iEEG Epilepsy Datasets:
 Below are links to epilepsy datasets with other types of data. If you know of any others, please email me with links.
