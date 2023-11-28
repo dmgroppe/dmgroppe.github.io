@@ -49,6 +49,8 @@ I searched the following repositories for iEEG Data:
 In addition, I was unable to access the following repositories because I either could not figure out how to access the data or my one request to access them went unanswered. I am listing them here for completeness and am sure that with a bit more effort you could access the data for reasonable purposes:
 * [Michael Kahana Laboratory](https://memory.psych.upenn.edu/Data)<br>
 * [Mayo Clinic Bioelectronics Neurophysiology and Engineering Lab](https://www.mayo.edu/research/labs/bioelectronics-neurophysiology-engineering/data-code-sharing)<br>
+* [Multicenter iEEG Sleep Atlas](https://ieegatlas.loris.ca/)<br>
+* [MNI Open iEEG Atlas](https://mni-open-ieegatlas.research.mcgill.ca/)<br>
 
 Finally, the [Open Science Framework](https://osf.io/) and [Dryad](https://datadryad.org) have a few iEEG datasets as well, but I have not yet had time to add them to the table.
 
@@ -57,8 +59,17 @@ Some of those repositories did not have any iEEG data. For the datasets I was ab
 -a resource for other iEEG researchers
 -give you a sense of places/ways to share such data
 
-These are the repos I searched:
+## Public Epilepsy Datasets of Non-iEEG Data:
+Below are links to epilepsy datasets with other types of data. If you know of any others, please email me with links.
 
-These are the databases I found:
+### Scalp EEG Data:
+* [Temple University EEG Corpus](https://isip.piconepress.com/projects/tuh_eeg/)<br>
+* [CHB-MIT Scalp EEG Database](https://physionet.org/content/chbmit/1.0.0/)<br>
+* [Epilepsiae](http://www.epilepsiae.eu/project_outputs/european_database_on_epilepsy)<br>
+* [Siena Scalp EEG Database](https://physionet.org/content/siena-scalp-eeg/1.0.0/)<br>
+* [EEGNet](https://eegnet.org/)<br>
+* [Neonatal Seizure Recordings](https://zenodo.org/records/4940267)<br>
 
-These are other public iEEG datasets that I was not able to access: 
+### Imaging Data:
+* [ENIGMA](https://enigma.ini.usc.edu/ongoing/enigma-epilepsy/)<br>
+
