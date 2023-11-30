@@ -76,8 +76,10 @@ Below are links to epilepsy datasets with other types of data. If you know of an
 * [EEGNet](https://eegnet.org/)<br>
 * [Neonatal Seizure Recordings](https://zenodo.org/records/4940267)<br>
 * [Open Neuro](https://openneuro.org/)<br>
+* [epilepsy.science (forthcoming?)](https://epilepsy.science/)<br>
 
 ### Imaging Data:
 * [ENIGMA](https://enigma.ini.usc.edu/ongoing/enigma-epilepsy/)<br>
 * [Open Neuro](https://openneuro.org/)<br>
+* [epilepsy.science (forthcoming?)](https://epilepsy.science/)<br>
 
